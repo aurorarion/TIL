@@ -6,4 +6,4 @@ Today I Learned
 * [REST](#rest)
 
 ### Rest
-- [REST Summing-up](rest/REST summing-up.md)
+- [REST Summing-up](REST/REST summing-up.md)
