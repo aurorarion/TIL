@@ -5,7 +5,7 @@ Today I Learned
 ## Category
 * [REST](#rest)
 * [Markdown](#markdown)
-* [Data Structures](#DataStructures)
+* [Data Structures](#datastructures)
 
 ### Rest
 - [REST summary](REST/REST summary.md)
