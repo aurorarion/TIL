@@ -5,7 +5,7 @@ Today I Learned
 ## Category
 * [REST](#rest)
 * [Markdown](#markdown)
-* [Data Structures](#datastructres)
+* [Data Structures](#Data Structures)
 
 ### Rest
 - [REST summary](REST/REST summary.md)
@@ -13,4 +13,4 @@ Today I Learned
 ### Markdown
 - [Markdown cheatography](Markdown/markdown-syntax.md)
 
-### DataStructures
+### Data Structures
