@@ -14,3 +14,4 @@ Today I Learned
 - [Markdown cheatography](Markdown/markdown-syntax.md)
 
 ### DataStructures
+- tutorial
