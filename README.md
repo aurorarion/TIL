@@ -8,7 +8,8 @@ Today I Learned
 * [Data Structures](#datastructures)
 
 ### Rest
-- [REST summary](REST/REST summary.md)
+
+- [REST summary](REST/REST-summary.md)
 
 ### Markdown
 - [Markdown cheatography](Markdown/markdown-syntax.md)
