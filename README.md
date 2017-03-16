@@ -16,3 +16,5 @@ Today I Learned
 ### DataStructures
 - tutorial
 - Recursion
+- List
+	-Linked List
