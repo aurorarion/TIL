@@ -17,4 +17,4 @@ Today I Learned
 - tutorial
 - Recursion
 - List
-	-Linked List
+	- Linked List
