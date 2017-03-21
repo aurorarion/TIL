@@ -19,3 +19,5 @@ Today I Learned
 - Recursion
 - List
 	- Linked List
+- Tree
+	- Binary Tree
